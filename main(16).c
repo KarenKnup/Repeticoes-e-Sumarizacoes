@@ -1,9 +1,5 @@
 #include <stdio.h>
 
-/* 
-    TRIÂNGULO 
-*/
-
 int main(void) {
   int l, i, j;
 
