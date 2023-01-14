@@ -28,3 +28,4 @@ main 13 - Faça um programa que mostra a temperatura média de cada dia do mês 
 main 14 - Temperatura média durante certa quantidade de dias. <br>
 main 15 - Pirâmide de Pascal <br>
 main 16 - Outros triângulos e pirâmides com padrões <br>
+main 17 - Verifica se é um número de Armstrong
