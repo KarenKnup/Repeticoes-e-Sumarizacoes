@@ -32,3 +32,5 @@ main 17 - Verifica se é um número de Armstrong <br>
 main 18 - Dados dois números inteiros A e B, fazer uma função que determine o número de potências de 2 existentes no intervalo definido pelos dois valores, assim como a maior delas. <br>
 main 19 - Fazer uma função leituraDados que permaneça lendo valores reais até que o número 0 seja digitado. Ao final, a função deve determinar a quantidade de elementos fornecidos (excluindo o 0) e o maior dentre eles.<br>
 main 20 - Fazer uma função que exiba a tabuada de potências de um número n, no intervalo de 1 a 9. <br>
+main 21 - Faça o cálculo usando N (POTÊNCIA e FATORIAL). <br>
+main 22 - A função logarítmica é complementar à potenciação. <br>
