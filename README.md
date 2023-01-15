@@ -28,4 +28,5 @@ main 13 - Faça um programa que mostra a temperatura média de cada dia do mês 
 main 14 - Temperatura média durante certa quantidade de dias. <br>
 main 15 - Pirâmide de Pascal <br>
 main 16 - Outros triângulos e pirâmides com padrões <br>
-main 17 - Verifica se é um número de Armstrong
+main 17 - Verifica se é um número de Armstrong <br>
+main 18 - Dados dois números inteiros A e B, fazer uma função que determine o número de potências de 2 existentes no intervalo definido pelos dois valores, assim como a maior delas.
